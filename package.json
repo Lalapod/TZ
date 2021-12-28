@@ -2,7 +2,7 @@
   "name": "tz2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lalapod.github.io/tz",
+  "homepage": "https://lalapod.github.io/tz/public/index.html",
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
